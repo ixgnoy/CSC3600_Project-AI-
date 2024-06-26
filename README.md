@@ -1,4 +1,4 @@
-# CSC3600_Project-AI-
+# CSC3600_Project-AI
 Artificial Intelligence Group Project: Spotify Recommendation System
 
 Here's the colab for the codes: 
